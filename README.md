@@ -42,12 +42,17 @@ For aligning the component onto the base, we first select the “from” coordin
 We follow the same steps for aligning the components onto their respective      slots on the base component.
 
 ### Note: 
-If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
+If the components do not fit properly into the slots, it can be moved into the slot using the Move option**.
 
+**Name**:**M.Chandru**
+
+**Reference No**:24900224
 ## INPUT: 
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
+
+![Screenshot 2024-12-14 082916](https://github.com/user-attachments/assets/48f1339e-7b9b-4ff2-afd0-32f4c1420ac6)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
